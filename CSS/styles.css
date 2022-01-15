@@ -1,5 +1,35 @@
+body {
+  background: #f6e4c4;
+  display: block;
+}
+h1 {
+  color: #f19584;
+}
+
+.p-style {
+  display: block;
+  background-color: white;
+  color: #fea386;
+  border: solid #29c6cd;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 30px 150px;
+}
+
 h1,
 p,
 footer {
   text-align: center;
+}
+
+img {
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
+}
+
+footer {
+  color: #29c6cd;
+  margin: 0 10px;
 }
